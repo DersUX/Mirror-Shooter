@@ -1,0 +1,70 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emory[Cc]aptures/
+/[Rr]ecordings/
+/.utmp/
+
+# Unity build diagnostics and intermediate Android output
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+/.gradle/
+/ExportedObj/
+
+# Unity temporary assets (including their metadata)
+/[Aa]ssets/**/[Ee]ditor/[Jj]et[Bb]rains*
+/[Aa]ssets/[Ss]treamingAssets/aa/
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+
+# Unity crash reports
+/sysinfo.txt
+/mono_crash.*
+
+# Generated IDE projects and local preferences
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.sln.docstates
+*.suo
+*.user
+*.userosscache
+*.pidb
+*.booproj
+*.svd
+*.opendb
+*.VC.db
+*.DotSettings.user
+.vs/
+.idea/
+.consulo/
+
+# C# build and test output; keep Unity Packages and plugin binaries versioned
+[Bb]in/
+[Oo]bj/
+/[Aa]rtifacts/
+/[Pp]ublish/
+[Tt]est[Rr]esults/
+*.nupkg
+*.snupkg
+
+# VS Code shared configuration
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+.history/
+
+# OS files
+.DS_Store
+.AppleDouble
+Thumbs.db
+Thumbs.db.meta
+Desktop.ini
+$RECYCLE.BIN/
