@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 876bdf8a4f8fdaa4eb14a524a283862a, type: 3}
+  m_Name: DefaultPlayerConfig
+  m_EditorClassIdentifier: 
+  _movementGravity: 28
+  _environmentProbeEnvironment:
+    serializedVersion: 2
+    m_Bits: 1
+  _environmentProbeWallReach: 0.18
+  _lookSensitivity: 0.1
+  _lookHeightSmoothing: 16
+  _crouch: {fileID: 11400000, guid: 7490623c052a74741876d12c47299948, type: 2}
+  _slide: {fileID: 11400000, guid: 4a5ecc8442e2feb43a23b4289ca6d3df, type: 2}
+  _locomotion: {fileID: 11400000, guid: 9d2c1de9cc62c6545b49fd615adc4271, type: 2}
+  _wallClimb: {fileID: 11400000, guid: 92bf858bc2c30c34c8639e9bfc3c6e10, type: 2}
+  _wallSlide: {fileID: 11400000, guid: f3aab671100b2304a9c761f307ed28e0, type: 2}
+  _jump: {fileID: 11400000, guid: bcbd34bfe788a91459afc01f061ef737, type: 2}
+  _wallJump: {fileID: 11400000, guid: b4c130a074d393648b19cf6ba56e046f, type: 2}
